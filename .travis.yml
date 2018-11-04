@@ -10,3 +10,4 @@ python:
 # command to run tests
 script:
   - coverage run testrpn.py
+  - coverage report
