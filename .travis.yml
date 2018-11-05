@@ -9,5 +9,4 @@ python:
   - "3.7-dev"  # 3.7 development branch
 # command to run tests
 script:
-  - coverage run testrpn.py
-  - coverage report
+  - python testrpn.py
